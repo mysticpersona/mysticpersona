@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Profile%20Views-1000+-blueviolet?style=for-the-badge"/>
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 ```diff
 + 🎓 CSE Student (2022–2026) @ CARE College of Engineering
@@ -37,7 +37,7 @@
 + 🎯 Goal: Crack top product-based companies
 ```
 
-## 🚀 Skills
+## Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,sql,git,github" />
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/AI-Generative%20AI-orange?style=for-the-badge"/>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=10" height="160"/>
@@ -61,27 +61,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
 </p>
 
-## 💼 Projects
+## Projects
 
-### 🛒 E-Shop – React E-Commerce Application
+### E-Shop – React E-Commerce Application
 
 * Built a responsive e-commerce website using React
 * Implemented dynamic product listings and cart system
 * Smooth UI with reusable components and state management
 
-### 🚤 Luxury Yacht Rental Website
+### Luxury Yacht Rental Website
 
 * Developed client project for Dubai-based yacht business
 * Built using HTML, CSS, JavaScript
 * Interactive UI with modern responsive design
 
-### 🤖 AI Social Media Automation Workflow
+### AI Social Media Automation Workflow
 
 * Automated content creation and posting using n8n
 * Integrated AI models + APIs + Google Sheets
 * Generates and publishes posts for LinkedIn & X automatically
 
-## 🧠 Currently Learning
+## Currently Learning
 
 ```yaml
 - Data Structures & Algorithms
@@ -91,9 +91,9 @@
 ```
 
 <p align="center">
-  💎 Building Real-World Projects | 🚀 Growing Every Day
+  Building Real-World Projects | Growing Every Day
 </p>
 
 <p align="center">
-  ⭐️ From Abishek N
+  From Abishek N
 </p>

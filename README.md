@@ -37,7 +37,7 @@
  🎯 Goal: Crack top product-based companies
 ```
 ## Skills
-
+ ```yaml
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,sql,git,github" />
 </p>
@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Database-MongoDB%20SQL-darkgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-Generative%20AI-orange?style=for-the-badge"/>
 </p>
+```
 
 ## Currently Learning
 

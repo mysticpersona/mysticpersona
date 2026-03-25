@@ -1,108 +1,99 @@
-# Abishek N
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=444444&vCenter=true&width=850&height=40&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Applications;Focused+on+Top+Tech+Roles" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abishek%20N&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20|%20AI%20Enthusiast&descAlignY=60&animation=fadeIn"/>
 </p>
 
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-### Skills
-
-<p>
-
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-555555?style=for-the-badge&logo=express&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;AI+%7C+Backend+%7C+DSA;Building+Real+World+Projects" />
 </p>
 
-</td>
-
-<td width="33%" valign="top">
-
-### Connect
-
-<p>
-
-<a href="https://www.linkedin.com/in/abishek-nagulendran">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/mysticpersona">
-  <img src="https://img.shields.io/badge/GitHub-Profile-gray?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-</a>
-
-<br><br>
-
-<a href="https://abicse.ccbp.tech">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=black" height="40"/>
-</a>
-
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:abishek.n.project@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+  </a>
 </p>
 
-</td>
-
-<td width="33%" valign="top">
-
-### Profile
-
-<p>
-
-Computer Science Engineering student focused on full stack development.
-
-Building scalable MERN applications and improving problem-solving skills.
-
-Consistently learning and working towards top product-based companies.
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-1000+-blueviolet?style=for-the-badge"/>
 </p>
 
-</td>
+## 👨‍💻 About Me
 
-</tr>
-</table>
+```diff
++ 🎓 CSE Student (2022–2026) @ CARE College of Engineering
++ 💻 Full Stack Developer (MERN Stack)
++ ⚡ Strong in Backend, APIs & Scalable Applications
++ 🤖 Working with Generative AI & Automation
++ 🎯 Goal: Crack top product-based companies
+```
 
-<br><br>
+## 🚀 Skills
 
-### About Me
-
-<p style="line-height:1.8; max-width:1000px;">
-
-Computer Science Engineering student (2022–2026) with a strong interest in building scalable and efficient web applications.
-
-Full Stack Developer specializing in the MERN stack, with experience in developing responsive user interfaces and backend systems.
-
-Currently strengthening Data Structures and Algorithms along with backend architecture and system design.
-
-Driven to build real-world products and secure opportunities in leading tech companies.
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,sql,git,github" />
 </p>
 
-<br>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=666666&vCenter=true&width=800&height=35&lines=Stay+Consistent;Build+Daily;Keep+Improving" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Node%20Express-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB%20SQL-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Generative%20AI-orange?style=for-the-badge"/>
 </p>
 
-<br>
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:888888&height=140&section=footer"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=10" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border_radius=10" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+</p>
+
+## 💼 Projects
+
+### 🛒 E-Shop – React E-Commerce Application
+
+* Built a responsive e-commerce website using React
+* Implemented dynamic product listings and cart system
+* Smooth UI with reusable components and state management
+
+### 🚤 Luxury Yacht Rental Website
+
+* Developed client project for Dubai-based yacht business
+* Built using HTML, CSS, JavaScript
+* Interactive UI with modern responsive design
+
+### 🤖 AI Social Media Automation Workflow
+
+* Automated content creation and posting using n8n
+* Integrated AI models + APIs + Google Sheets
+* Generates and publishes posts for LinkedIn & X automatically
+
+## 🧠 Currently Learning
+
+```yaml
+- Data Structures & Algorithms
+- Backend Scalability
+- System Design
+- AI Integration in Apps
+```
+
+<p align="center">
+  💎 Building Real-World Projects | 🚀 Growing Every Day
+</p>
+
+<p align="center">
+  ⭐️ From Abishek N
 </p>

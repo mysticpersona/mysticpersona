@@ -29,13 +29,12 @@
 
 ## About Me
 
-```diff
+
 + 🎓 CSE Student (2022–2026) @ CARE College of Engineering
 + 💻 Full Stack Developer (MERN Stack)
 + ⚡ Strong in Backend, APIs & Scalable Applications
 + 🤖 Working with Generative AI & Automation
 + 🎯 Goal: Crack top product-based companies
-```
 
 ## Skills
 

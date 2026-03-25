@@ -50,26 +50,6 @@
   <img src="https://img.shields.io/badge/AI-Generative%20AI-orange?style=for-the-badge"/>
 </p>
 
-## Projects
-
-### E-Shop – React E-Commerce Application
-
-* Built a responsive e-commerce website using React
-* Implemented dynamic product listings and cart system
-* Smooth UI with reusable components and state management
-
-### Luxury Yacht Rental Website
-
-* Developed client project for Dubai-based yacht business
-* Built using HTML, CSS, JavaScript
-* Interactive UI with modern responsive design
-
-### AI Social Media Automation Workflow
-
-* Automated content creation and posting using n8n
-* Integrated AI models + APIs + Google Sheets
-* Generates and publishes posts for LinkedIn & X automatically
-
 ## Currently Learning
 
 ```yaml

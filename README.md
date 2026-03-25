@@ -53,10 +53,10 @@
 ## Currently Learning
 
 ```yaml
- Data Structures & Algorithms
- Backend Scalability
- System Design
- AI Integration in Apps
+* Data Structures & Algorithms
+* Backend Scalability
+* System Design
+* AI Integration in Apps
 ```
 
 <p align="center">
